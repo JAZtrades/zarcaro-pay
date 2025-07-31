@@ -1,0 +1,6 @@
+Flask==2.3.3
+flask-cors==3.0.10
+python-dotenv==1.0.0
+stripe==9.2.0
+plaid-python==17.4.0
+firebase-admin==6.4.0
