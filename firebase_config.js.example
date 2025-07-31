@@ -1,0 +1,14 @@
+// Firebase configuration for the Zarcaro APC client.
+//
+// Copy this file to `firebase_config.js` and fill in the values from
+// your Firebase project settings (Project → Settings → General → Your apps).
+// These keys are considered public and safe to embed in client code.
+
+window.FIREBASE_CONFIG = {
+  apiKey: "",
+  authDomain: "",
+  projectId: "",
+  storageBucket: "",
+  messagingSenderId: "",
+  appId: "",
+};
